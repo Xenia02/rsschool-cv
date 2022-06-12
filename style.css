@@ -37,10 +37,10 @@
     text-align: center;
     height: 30vh;
 }
-.third2{
+.third2, .third3{
     padding: 35px;
     background-color: #edeff1;
-    width: 35vw;
+    width: 50vw;
 }
 
 .center-img {
@@ -134,7 +134,6 @@ footer{
     padding-top: 5px;
     padding-bottom: 5px;
     align-items: center;
-    background-color: #edeff1;
 }
 .foot-img {
     display: block;
@@ -142,5 +141,3 @@ footer{
     width: 80px;
     height: 40px;
 }
-
-
